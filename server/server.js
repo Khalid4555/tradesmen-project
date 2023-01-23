@@ -10,5 +10,5 @@ app.listen(apiPort, () => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Hello from tradesmatch');
+  res.send('Hello from trades');
 });
